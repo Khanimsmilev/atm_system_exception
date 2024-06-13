@@ -1,0 +1,14 @@
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\bin\Debug\net8.0\EXCEPTIONS2.exe
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\bin\Debug\net8.0\EXCEPTIONS2.deps.json
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\bin\Debug\net8.0\EXCEPTIONS2.runtimeconfig.json
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\bin\Debug\net8.0\EXCEPTIONS2.dll
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\bin\Debug\net8.0\EXCEPTIONS2.pdb
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\obj\Debug\net8.0\EXCEPTIONS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\obj\Debug\net8.0\EXCEPTIONS2.AssemblyInfoInputs.cache
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\obj\Debug\net8.0\EXCEPTIONS2.AssemblyInfo.cs
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\obj\Debug\net8.0\EXCEPTIONS2.csproj.CoreCompileInputs.cache
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\obj\Debug\net8.0\EXCEPTIONS2.dll
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\obj\Debug\net8.0\refint\EXCEPTIONS2.dll
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\obj\Debug\net8.0\EXCEPTIONS2.pdb
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\obj\Debug\net8.0\EXCEPTIONS2.genruntimeconfig.cache
+C:\Users\Ismay_wh57\source\repos\EXCEPTIONS2\EXCEPTIONS2\obj\Debug\net8.0\ref\EXCEPTIONS2.dll

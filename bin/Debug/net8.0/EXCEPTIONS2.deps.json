@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EXCEPTIONS2/1.0.0": {
+        "runtime": {
+          "EXCEPTIONS2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EXCEPTIONS2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
